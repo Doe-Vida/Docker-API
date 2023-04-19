@@ -1,0 +1,4 @@
+flask
+uuid
+psycopg2-binary
+Flask-SQLAlchemy
