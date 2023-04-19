@@ -1,6 +1,5 @@
 # Doe vida ❣
 
-
 ## Iniciando com Docker 🚢
 Primeiramente para iniciar a configuração é necessário que você tenha instalado o docker em sua máquina, segue link para configuração do mesmo: 
 
